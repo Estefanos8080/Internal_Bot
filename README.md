@@ -8,9 +8,9 @@ This system is a conversational AI that answers natural language questions about
 
 ## 🎥 Demo Video
 
-Below is a demonstration of the system showing how the frontend and backend interact, from user query to AI-generated response.
+Below is a demonstration of the system showing how the frontend and backend interact, from user query to generated response.
 
-<video src="./video1350924448.mp4" controls width="100%"></video>
+[Watch the demo video](./video1350924448.mp4)
 
 ---
 
