@@ -15,7 +15,7 @@ Below is a demonstration of the system showing how the frontend and backend inte
 
 ---
 
-## 🔍 Overview
+## Overview
 
 - The frontend is a web-based interface where users type their questions.
 - The backend processes each query using NLP techniques, understands the intent, retrieves relevant data, and generates a response.
@@ -25,7 +25,7 @@ The demo video shows the full workflow from user input to AI-generated response.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Web-Based UI**  
   I built a clean and simple interface using Flask and modern CSS.
@@ -47,7 +47,7 @@ The demo video shows the full workflow from user input to AI-generated response.
 
 ---
 
-## 🧠 Approach: Hybrid AI Architecture
+## Approach: Hybrid AI Architecture
 
 I use a hybrid approach that combines multiple techniques:
 
@@ -70,7 +70,7 @@ I use a hybrid approach that combines multiple techniques:
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Flask  
 - Pandas  
@@ -81,7 +81,7 @@ I use a hybrid approach that combines multiple techniques:
 
 ---
 
-## 🔒 Note
+## Note
 
 The source code is not shared publicly. 
 
